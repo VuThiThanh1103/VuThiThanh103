@@ -2,15 +2,17 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using VuThiThanh103.Data;
 
 namespace VuThiThanh103.Migrations
 {
     [DbContext(typeof(VuThiThanh103Context))]
-    partial class VuThiThanh103ContextModelSnapshot : ModelSnapshot
+    [Migration("20211006003509_VTT1103")]
+    partial class VTT1103
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

@@ -149,3 +149,8 @@ C:\Users\admin\Desktop\VuThiThanh103\VuThiThanh103\obj\Debug\net5.0\Razor\Views\
 C:\Users\admin\Desktop\VuThiThanh103\VuThiThanh103\obj\Debug\net5.0\Razor\Views\PersonVTT103\Details.cshtml.g.cs
 C:\Users\admin\Desktop\VuThiThanh103\VuThiThanh103\obj\Debug\net5.0\Razor\Views\PersonVTT103\Edit.cshtml.g.cs
 C:\Users\admin\Desktop\VuThiThanh103\VuThiThanh103\obj\Debug\net5.0\Razor\Views\PersonVTT103\Index.cshtml.g.cs
+C:\Users\admin\Desktop\VuThiThanh103\VuThiThanh103\obj\Debug\net5.0\Razor\Views\VTT1103\Create.cshtml.g.cs
+C:\Users\admin\Desktop\VuThiThanh103\VuThiThanh103\obj\Debug\net5.0\Razor\Views\VTT1103\Delete.cshtml.g.cs
+C:\Users\admin\Desktop\VuThiThanh103\VuThiThanh103\obj\Debug\net5.0\Razor\Views\VTT1103\Details.cshtml.g.cs
+C:\Users\admin\Desktop\VuThiThanh103\VuThiThanh103\obj\Debug\net5.0\Razor\Views\VTT1103\Edit.cshtml.g.cs
+C:\Users\admin\Desktop\VuThiThanh103\VuThiThanh103\obj\Debug\net5.0\Razor\Views\VTT1103\Index.cshtml.g.cs
