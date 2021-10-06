@@ -15,5 +15,7 @@ namespace VuThiThanh103.Data
         }
 
         public DbSet<VuThiThanh103.Models.PersonVTT103> PersonVTT103 { get; set; }
+
+        public DbSet<VuThiThanh103.Models.VTT1103> VTT1103 { get; set; }
     }
 }

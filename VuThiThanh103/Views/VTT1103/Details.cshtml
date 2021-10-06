@@ -1,0 +1,30 @@
+﻿@model VuThiThanh103.Models.VTT1103
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>VTT1103</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.VTTName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.VTTName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.VTTGender)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.VTTGender)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.VTTId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
