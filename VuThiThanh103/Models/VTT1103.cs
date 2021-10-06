@@ -14,7 +14,7 @@ namespace VuThiThanh103.Models
         public string VTTId { get; set; }
         [Column(TypeName = "nvarchar(50)")]
         public string VTTName { get; set; }
-
+        [Column(TypeName = "Boolean")]
         public Boolean VTTGender { get; set; }
     }
 }
